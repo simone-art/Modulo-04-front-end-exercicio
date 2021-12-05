@@ -22,6 +22,7 @@
 }
 
 .navbar {
+margin-left: 10px;    
 width: 100%;
 height: 50%;
 background-color: gray;
@@ -62,6 +63,7 @@ background-color: gray;
     margin-left: 10px;
     margin-right: 10px;
     width: 100%;
+    height: 50%;
 }
 
 .tecnologia, ajuda, diferencial, vantagens{
@@ -116,6 +118,7 @@ background-color: gray;
     margin: 0 auto;
     width: 90%;
     height: 90%;
+    align-items: center;
     
 }
 
