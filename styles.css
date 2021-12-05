@@ -63,3 +63,49 @@ background-color: gray;
     margin-right: 10px;
     width: 100%;
 }
+
+.tecnologia, ajuda, diferencial, vantagens{
+    margin-top: 10px;
+}
+
+.titulo-tecnologia{
+    text-align: center;
+}
+
+.texto-tecnologia{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.titulo-ajuda{
+    text-align: center;
+}
+
+.texto-ajuda{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.titulo-diferencial{
+    text-align: center;
+}
+
+.texto-diferencial{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.lista-diferencial{
+    font-size: 20px;
+    text-align: left;
+}
+
+.texto-lista-diferencial{
+    margin-bottom: 10px;
+}
