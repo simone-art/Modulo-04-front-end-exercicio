@@ -2,16 +2,25 @@
     box-sizing: border-box;
 }
 
-.logo {
+.logo{
     width: 50px;
-    margin-left: 100px;
-    margin-top: 20px;
+    margin-left: 50px;
+    margin-top: 6px;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .hamburguer{
     display: none;
 }
 
+.navbar {
+margin-left: 10px;  
+width: 100%;
+height: 50%;
+background-color: gray;
+
+}
 .Nav {
     display: flex;
     flex-direction: row;
@@ -21,13 +30,6 @@
 
 }
 
-.navbar {
-margin-left: 10px;    
-width: 100%;
-height: 50%;
-background-color: gray;
-
-}
 
 .home {
     margin-top: -40px;
@@ -125,5 +127,36 @@ background-color: gray;
 .images{
     width: 350px;
     margin-right: 10px;
+    margin-bottom: 60px;
 
 }
+
+.footer{
+    width: 90%;
+    height: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:gray;
+}
+
+.logo-footer{
+    margin-top: 10px;
+    width: 50px;
+    margin-right: 900px;
+    margin-bottom: 20px;
+}
+
+.icones-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+.icones{
+   margin-top: 10px;
+   margin-right: 10px;
+   width: 30px;
+   height: 30px;
+}
+
